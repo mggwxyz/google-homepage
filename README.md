@@ -1,3 +1,5 @@
+> **Archived 2026-07** — HTML/CSS exercise recreating the Google homepage (2017).
+
 # Google Homepage
 The iconic Google homepage reverse engineered into simple HTML and CSS
 
